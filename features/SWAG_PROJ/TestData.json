@@ -1,0 +1,23 @@
+{
+    "locators":{
+    "Name":"#user-name",
+    "Password" :"#password",
+    "Login":".btn_action",
+    "product1_price":"(//div[@class='inventory_item_price'])[1]",
+    "product2_price":"(//div[@class='inventory_item_price'])[2]",
+    "Product1_addbtn" :"(//button[@class='btn_primary btn_inventory'])[1]",
+    "Product2_addbtn":"(//button[@class='btn_primary btn_inventory'])[2]",
+    "Add_To_Cart":".shopping_cart_badge",
+    "Checkout":".subheader",
+    "First_name":"#first-name",
+     "Last_name":"#last-name",
+    "Postal":"#postal-code",
+    "Continue":".cart_button",
+    "Scroll_":".summary_subtotal_label",
+    "Item_total":".summary_total_label",
+    "Finish":"#finish"
+ }
+}
+ 
+ 
+ 
